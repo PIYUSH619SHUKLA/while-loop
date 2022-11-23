@@ -1,0 +1,9 @@
+'''a=1
+while(a<51):
+    print(a)
+    a+=1'''
+a=[1,"apple",2,"banana",7]
+i=0
+while(i<len(a)):
+    print(a[i])
+    i+=1    
